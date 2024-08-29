@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chetan Kaushik</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankaushik702&label=Profile%20views&color=0e75b6&style=flat" alt="chetankaushik702" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Web-development projects**
+- 🔭 I’m currently working on **Node.js**, **React.js**, **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChetanKaushik702](https://github.com/ChetanKaushik702)
 
-- 💬 Ask me about **Node.js, JavaScript, Java, Data structures and Algorithms.**
+- 💬 Ask me about **Node.js, React.js, MongoDB, TypeScript, AWS, Core Java, Data structures and Algorithms.**
 
 - 📫 How to reach me **kaushikchetan199@gmail.com**
 
