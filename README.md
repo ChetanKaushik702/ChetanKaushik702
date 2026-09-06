@@ -17,9 +17,6 @@
 **[ServeWell](https://service-5fvo-orpin.vercel.app/)**
 A two-sided marketplace connecting people with home service professionals: cleaning, plumbing, electrical, tutoring, beauty, and photography. Built solo end to end. React, Redux, Express, MongoDB Atlas, deployed on Vercel with a serverless API.
 
-**awesome-logic-parser** ([npm](https://www.npmjs.com/package/awesome-logic-parser))
-A published package for evaluating logic-based conditions from JSON, with pipe-chained value transformation.
-
 ## Experience
 
 | Role | Company | When |
