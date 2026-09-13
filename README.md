@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1M033559Hmj7wuK60mtd2rD6XWkDCsfZV/view">Resume</a> ·
-  <a href="https://your-portfolio-url.netlify.app">Portfolio</a> ·
+  <a href="https://chetankaushik.netlify.app/?utm_source=github&utm_medium=readme">Portfolio</a> ·
   <a href="mailto:kaushikchetan199@gmail.com">Email</a>
 </p>
 
